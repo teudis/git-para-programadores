@@ -50,3 +50,9 @@ body
     background: white;
     padding: 1em;
 }
+
+.footer p{
+
+    background:gray;
+    text-align: center;
+}
